@@ -1,0 +1,1 @@
+document.cookie = `token=${data.token}; path=/; max-age=3600; SameSite=Strict`;
